@@ -1,5 +1,4 @@
 Object.defineProperty(exports, "__esModule", { value: true });
-
 const weather = require('../service/weather');
 const weather_zip = require('../service/weatherZip')
 
